@@ -1,0 +1,36 @@
+h1{
+    font-size: 60px!important;
+    margin-bottom: 0!important;
+}
+
+h2{
+    font-size: 40px!important;
+}
+
+.colorMorado {
+    background-color: rgb(169, 90, 205)!important;
+    border-color: rgb(169, 90, 205)!important;
+}
+
+table{
+    border-color: rgb(169, 90, 205)!important; 
+}
+
+.actions{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card{
+    border-color: rgb(169, 90, 205)!important;
+}
+
+.price{
+    font-size: 32px!important;
+}
+
+.carousel .carousel-inner .carousel-item img{
+    height: 250px!important;
+    width: auto;
+    margin: auto;
+  }
